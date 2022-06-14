@@ -1,1 +1,1 @@
-# An introduction to Angular
+# Project done in the course: introduction to Angular
